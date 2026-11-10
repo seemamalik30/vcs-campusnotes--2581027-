@@ -1,4 +1,4 @@
-# CampusNotes
+knsa# CampusNotes
 
 CampusNotes is a simple student notes management project.
 
@@ -13,4 +13,10 @@ CampusNotes is a simple student notes management project.
 Garima Malik
 
 This project was updated from the cloned repository.
+## Study Resources
+
+- Subject-wise notes for easy learning
+- Important questions for exam preparation
+- Organized resources for students
+- Easy access to study materials
 
