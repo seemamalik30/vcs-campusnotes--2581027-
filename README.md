@@ -20,3 +20,9 @@ This project was updated from the cloned repository.
 - Organized resources for students
 - Easy access to study materials
 
+- ### Subject-wise Resources
+
+- Mathematics – Unit-wise notes and practice questions
+- Programming – Coding examples and exercises
+- Computer Science – Important concepts and revision material
+
