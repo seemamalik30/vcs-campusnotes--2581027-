@@ -13,4 +13,8 @@ CampusNotes is a simple student notes management project.
 Garima Malik
 
 This project was updated from the cloned repository.
+### Subject-wise Resources
 
+- Mathematics – Unit-wise notes and practice questions
+- Programming – Coding examples and exercises
+- Computer Science – Important concepts and revision material
